@@ -57,4 +57,4 @@ The script `intel-power-control-setup` is supplied to set up the
 permissions for `intel-power-control-helper` correctly after
 installation.
 
-Greetings my
+Greetings my Friends !
